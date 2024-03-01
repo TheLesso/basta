@@ -205,8 +205,6 @@
         margin: 5px;
         //background-color: $inactive;
         fill: $inactive;
-
-        border-radius: 50%;
         transition: 0.1s;
 
         display: flex;
